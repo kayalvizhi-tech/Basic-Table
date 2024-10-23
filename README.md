@@ -1,5 +1,4 @@
 # Basic-Table
-<!DOCTYPE html>
 <html>
 <style>
  body {
@@ -20,7 +19,7 @@ th, td {
 
 <h2>A basic HTML table</h2>
 
-<table style="width:100%">
+<table style="width:80%">
   <tr>
     <th>Company</th>
     <th>Contact</th>
