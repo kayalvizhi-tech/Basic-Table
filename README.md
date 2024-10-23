@@ -2,9 +2,19 @@
 <!DOCTYPE html>
 <html>
 <style>
+ body {
+      background-color: black;
+      color: white;
+    }
 table, th, td {
-  border:1px solid black;
+  border:3px solid white;
+  border-collapse: collapse;
+color: black;
 }
+th, td {
+  background-color: #96D4D4;
+}
+
 </style>
 <body>
 
